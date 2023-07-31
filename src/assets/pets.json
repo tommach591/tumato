@@ -1,0 +1,122 @@
+{
+    "1": {
+        "species": "Raccoon",
+        "names": ["Raccoon", "Cute Raccoon", "Panda Raccoon", "Pink Raccoon"],
+        "images": ["https://i.imgur.com/ZeGNT74.png", "https://i.imgur.com/ULKBLIU.png", "https://i.imgur.com/8ENr4zs.png", "https://i.imgur.com/dEAyZGv.png"],
+        "quotes": [
+            "*\"Sugoi raccoon noises\"*",
+            "*\"Smile\"*",
+            "*\"Spins\"*",
+            "*\"Raccoon things\"*",
+            "*\"Sits\"*"
+        ]
+    },
+    "2": {
+        "species": "Cat",
+        "names": ["Cat", "Jaguar", "Cheeta", "Katuwu"],
+        "images": ["https://i.imgur.com/nzoDG96.png", "https://i.imgur.com/UxmRl8i.png", "https://i.imgur.com/x1MDDr6.png", "https://i.imgur.com/UIzTrAg.png"],
+        "quotes": [
+            "*\"Purr\"*",
+            "*\"Nuzzles\"*",
+            "*\"Cat things\"*",
+            "*\"Sits\"*",
+            "*\"Yawns\"*"
+        ]
+    },
+    "3": {
+        "species": "Pig",
+        "names": ["Pig", "Cute Pig", "Yig", "Cow"],
+        "images": ["https://i.imgur.com/7Tm3dmS.png", "https://i.imgur.com/aydy0HW.png", "https://i.imgur.com/uYyYCwh.png", "https://i.imgur.com/9WF5QfI.png"],
+        "quotes": [
+            "*\"Oink\"*",
+            "*\"Rolls around\"*",
+            "*\"Pig things\"*",
+            "*\"Sits\"*",
+            "*\"Snort\"*"
+        ]
+    },
+    "4": {
+        "species": "Dog",
+        "names": ["Doge", "Corgi", "Pom", "Samoyed"],
+        "images": ["https://i.imgur.com/tehYSXO.png", "https://i.imgur.com/xnTPtCa.png", "https://i.imgur.com/60UeTTE.png", "https://i.imgur.com/qc7Q3k3.png"],
+        "quotes": [
+            "*\"Woof\"*",
+            "*\"Bark\"*",
+            "*\"Dog things\"*",
+            "*\"Wags tail\"*",
+            "*\"Sniff sniff\"*"
+        ]
+    },
+    "5": {
+        "species": "Duck",
+        "names": ["Duck", "Mallard", "Ugly Duckling", "Chicken"],
+        "images": ["https://i.imgur.com/llnRHFA.png", "https://i.imgur.com/dI3QHkp.png", "https://i.imgur.com/MSXdJkW.png", "https://i.imgur.com/VGzO3yK.png"],
+        "quotes": [
+            "*\"Quack\"*",
+            "*\"Honk honk\"*",
+            "*\"Duck things\"*",
+            "*\"Wiggle wiggle\"*",
+            "*\"Splash splash\"*"
+        ]
+    },
+    "6": {
+        "species": "Bear",
+        "names": ["Bear", "Pink Bear", "Halfsie Bear", "Majestic Bear"],
+        "images": ["https://i.imgur.com/j7CvV6s.png", "https://i.imgur.com/mR4bZrF.png", "https://i.imgur.com/JpzHFUf.png", "https://i.imgur.com/aktipFY.png"],
+        "quotes": [
+            "*\"Growl\"*",
+            "*\"Sleeps\"*",
+            "*\"Bear things\"*",
+            "*\"Nuzzles\"*",
+            "*\"Toot toot\"*"
+        ]
+    },
+    "7": {
+        "species": "Dragon",
+        "names": ["Dragon", "Fire Dragon", "Dum Dragon", "Dark Flame Dragon"],
+        "images": ["https://i.imgur.com/g1qpPRc.png", "https://i.imgur.com/fLStcmN.png", "https://i.imgur.com/2z0yDo5.png", "https://i.imgur.com/Hlgplkq.png"],
+        "quotes": [
+            "*\"Rawr x3\"*",
+            "*\"Roar\"*",
+            "*\"Dragon things\"*",
+            "*\"Dragon deeznutz\"*",
+            "*\"Belch\"*"
+        ]
+    },
+    "8": {
+        "species": "Fish",
+        "names": ["Goldfish", "Pufferfish", "Statrick Par", "Narwhal"],
+        "images": ["https://i.imgur.com/u440yeG.png", "https://i.imgur.com/52mPYlV.png", "https://i.imgur.com/MdVt017.png", "https://i.imgur.com/ORDFNTA.png"],
+        "quotes": [
+            "*\"Blub\"*",
+            "*\"Bubble\"*",
+            "*\"Fish things\"*",
+            "*\"Stares\"*",
+            "*\"Bloop Bloop\"*"
+        ]
+    },
+    "9": {
+        "species": "Sticks & Stones",
+        "names": ["Stick", "Stone", "Big Stick", "Big Stone"],
+        "images": ["https://i.imgur.com/YQx6L0P.png", "https://i.imgur.com/GsHhIfr.png", "https://i.imgur.com/Yr0ZqI6.png", "https://i.imgur.com/WgpO0WQ.png"],
+        "quotes": [
+            "*\"...\"*",
+            "*\"..?\"*",
+            "*\"..!\"*",
+            "*\"... ... ...\"*",
+            "*\"?!\"*"
+        ]
+    },
+    "10": {
+        "species": "Smol",
+        "names": ["Smol Baer", "Smol Karol", "Smol Tum", "Smol Aivy"],
+        "images": ["https://i.imgur.com/nJ7YHIE.png", "https://i.imgur.com/lJuT116.png", "https://i.imgur.com/dUcXhwN.png", "https://i.imgur.com/36XJ5ha.png"],
+        "quotes": [
+            "*\"Haha!\"* :grinning:",
+            "*\"LF> Exciting Drops @@@@@@\"* :triumph:",
+            "*\"I'm content.\"* :relieved:",
+            "*\"Please don't abandon me.\"* :pleading_face:",
+            "*\"Ayo can I get some points?\"* :sunglasses:"
+        ]
+    }
+}
