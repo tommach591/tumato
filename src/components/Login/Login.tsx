@@ -1,8 +1,12 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 function Login() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+
+  useEffect(() => {
+    // Check cache if already logged in.
+  }, []);
 
   const handleLogin = (event: React.SyntheticEvent) => {
     event.preventDefault();
