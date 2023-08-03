@@ -1,8 +1,12 @@
 import { useEffect, useState } from "react";
+import { useLogin } from "../../utils/AccountContext";
+import { useNavigate } from "react-router-dom";
 
 function Login() {
+  const navigate = useNavigate();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+  const loginUser = useLogin();
 
   useEffect(() => {
     // Check cache if already logged in.
@@ -10,6 +14,8 @@ function Login() {
 
   const handleLogin = (event: React.SyntheticEvent) => {
     event.preventDefault();
+    loginUser(username, password);
+    navigate("/");
     console.log(`Log in ${username} ${password}`);
   };
 
